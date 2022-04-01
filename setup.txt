@@ -1,0 +1,9 @@
+requests
+colorama
+sqlmap
+pyqt5
+ms-toollib
+pyttsx3
+genSearch
+pyridy
+phonenumbers
